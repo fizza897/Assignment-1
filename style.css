@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    background-image: url(PIAIC.jfif);
+    background-repeat: no-repeat;
+}
+
+.row{
+    background-image: url(CloudComputing.jfif);
+    text-align:left;
+    background-repeat: no-repeat;
+}
+
+.coloumn{
+    background-image: url(images.jfif);
+    text-align:left;
+    background-repeat: no-repeat;
+}
+
+coloumn{
+    background-image: url(Blockchain1.jpg,block);
+    background-repeat: no-repeat;
+}
